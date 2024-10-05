@@ -12,6 +12,22 @@
         return 0
     ```
 
+   or for factorial the factorial of 0 will be 1
+
+   ```python3
+   if n == 0:
+       return 1
+    ```
+
+   or for fibonacci
+
+   ```python3
+   if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    ```
+
 ### Create a choice Diagram
 <div style="text-align: center;">
     <img src="../static/knapsack_decision_tree.png" alt="Description" width="500"/>
