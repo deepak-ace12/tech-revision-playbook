@@ -30,7 +30,7 @@
 
 ### Create a choice Diagram
 <div style="text-align: center;">
-    <img src="../static/knapsack_decision_tree.png" alt="Description" width="500"/>
+    <img src="../../static/knapsack_decision_tree.png" alt="Description" width="500"/>
 </div>
 
 
